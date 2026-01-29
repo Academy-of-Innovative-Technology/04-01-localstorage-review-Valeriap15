@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22433729&assignment_repo_type=AssignmentRepo)
 ## Storing, Retrieving and Deleting Data ##
 
   Everything in technology stores data somewhere. Whether it's on a device, an external device or the cloud. LocalStorage and SessionStorage are ways to save data to your browser. Many websites and ad tracker use this and cookies to monitor your activities.
